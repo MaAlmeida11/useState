@@ -29,7 +29,7 @@ export function App () {
           </div>
         ) : (
           <div>
-            <p>marcinho</p>
+            <p>Finalmente pude aparecer</p>
             <button onClick={comprovador}>Esconder</button>
           </div>
         )
