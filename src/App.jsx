@@ -17,7 +17,7 @@ export function App () {
     <div>
       <h1>useState</h1>
 
-      <p>Número: {numero}</p>
+      <h2>Número: {numero}</h2>
 
       <button onClick={aumentar}>Aumentar</button>
       
